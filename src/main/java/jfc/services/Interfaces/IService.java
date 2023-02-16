@@ -1,4 +1,4 @@
-package jfc.service.Interfaces;
+package jfc.services.Interfaces;
 
 public interface IService {
 	

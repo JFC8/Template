@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import jfc.controller.Interfaces.IController;
-import jfc.service.Interfaces.IService;
+import jfc.services.Interfaces.IService;
 
 @RestController
 public class ControllerImpl implements IController{
